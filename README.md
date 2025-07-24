@@ -9,9 +9,16 @@ This application uses machine learning to detect potentially fake news articles.
 
 ## Running the Application
 
-You have two options to run this application:
-
-### Option 1: Using Gradio (Original Interface)
+You can run this application using gradio
+1. You can create your own environment using 
+   ```
+    python -m venv venv
+   ```
+2. After that activate environment using
+   ```
+   .\venv\Scripts\activate 
+   ```
+### Using Gradio (Original Interface)
 
 1. Double-click on `run_gradio_app.bat` or run the following command in your terminal:
    ```
